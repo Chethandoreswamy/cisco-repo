@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100&family=Nunito+Sans:opsz,wght@6..12,200&family=Open+Sans:ital,wght@0,600;1,300;1,600&display=swap');
 .App {
   text-align: center;
 }
@@ -35,4 +36,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+nav{
+  background-color: blanchedalmond;
+  width:100%;
+  
+}
+
+.datadetails{
+  display: flex;
+  padding: 70px;
+  background-color: gray;
 }
